@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h2 align="left">Hi 👋! My name is Maleesha Ransarani and I'm a passionate full-stack developer from Sri Lanka</h2>
+
 
 ###
 
