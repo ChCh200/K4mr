@@ -2,22 +2,20 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chch200&label=Profile%20views&color=0e75b6&style=flat" alt="chch200" />
+  <img src="https://komarev.com/ghpvc/?username=maleesharansarani&label=Profile%20views&color=0e75b6&style=flat" alt="maleesharansarani" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chch200" alt="chch200" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maleesharansarani" alt="maleesharansarani" />
   </a>
 </p>
-
-
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chch200&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chch200&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maleesharansarani&show_icons=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleesharansarani&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -60,4 +58,3 @@
 ###
 
 <br clear="both">
-
